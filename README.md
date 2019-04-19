@@ -1,4 +1,4 @@
-### LyckyBuy project
+### LuckyBuy project
 
 #### Use the below user data for autoscalling and loadbalancing lab.
 
